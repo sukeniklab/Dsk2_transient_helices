@@ -3,4 +3,4 @@
 
 ---
 
-
+We have uploaded python scripts used to analyze data and generate figures. To run scripts, clone the repo and run scripts within each directory. File paths may need to be updated, and raw data can be found at: 
